@@ -1,0 +1,3 @@
+/home/lqs/code/ThreadPool/build/CMakeFiles/ThreadPool.dir
+/home/lqs/code/ThreadPool/build/CMakeFiles/edit_cache.dir
+/home/lqs/code/ThreadPool/build/CMakeFiles/rebuild_cache.dir
