@@ -1,1 +1,0 @@
-/usr/bin/g++ -g CMakeFiles/ThreadPool.dir/main.cpp.o CMakeFiles/ThreadPool.dir/threadpool.cpp.o -o ThreadPool
